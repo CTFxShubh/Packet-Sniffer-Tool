@@ -25,7 +25,7 @@ Before running the network sniffer, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/CTFxShubh/PRODIGY_CS_Task-05.git
-   cd codealpha_Networksniffer
+   cd PRODIGY_CS_Task-05
    ```
 
 2. **Install Dependencies**:
