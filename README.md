@@ -46,6 +46,10 @@ Before running the network sniffer, ensure you have the following installed:
    sudo python3 networksniffer.py
    ```
 
+## Demonstration
+
+To provide a better understanding of how the Packet Sniffer Tool operates, we have included a video demonstration below. This demo showcases the tool's functionality, highlighting how it captures and analyzes network packets in real-time. Please refer to the video for a step-by-step walkthrough of the tool in action.
+
 
 ## Logging
 
