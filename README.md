@@ -2,7 +2,7 @@
 
 # Packet Sniffer Tool
 
-#  Basic Network Sniffer 
+#  Basic Network Sniffer  
 
 This project is an advanced network sniffer built using Python and the `scapy` library. It captures, analyzes, and logs network traffic, offering insights into the flow of data within a network.
 
