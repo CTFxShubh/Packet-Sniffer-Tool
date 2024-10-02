@@ -23,8 +23,8 @@ Before running the network sniffer, ensure you have the following installed:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/CTFxShubh/PRODIGY_CS_Task-05.git
-   cd PRODIGY_CS_Task-05
+   git clone https://github.com/CTFxShubh/Packet-Sniffer-Tool.git
+   cd Packet-Sniffer-Tool
    ```
 
 2. **Install Dependencies**:
